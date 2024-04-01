@@ -4,3 +4,4 @@ pandas>=0.24.2
 scikit-learn>=1.0.2
 matplotlib>=3.0.0
 joblib>=0.13.2
+pillow>=10.3.0 # not directly required, pinned by Snyk to avoid a vulnerability
